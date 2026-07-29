@@ -1,0 +1,6 @@
+{
+  "name": "CalcPerito AI - Extração e Revisão PJe-Calc",
+  "description": "Plataforma de inteligência artificial para extração automatizada de sentenças e petições trabalhistas, revisão assistida de verbas e integração com PJe-Calc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
